@@ -2,6 +2,9 @@
 name = "baldtunes"
 version = "0.1.0"
 edition = "2021"
+authors = ["2imt <contact.2imt@mail.ru>"]
+repository = "https://github.com/2IMT/baldtunes"
+license-file = "LICENSE"
 
 [dependencies]
 audiotags = "0.5.0"
